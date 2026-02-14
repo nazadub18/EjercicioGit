@@ -16,4 +16,4 @@ string user=Console.ReadLine();
 Console.WriteLine($"Bienvenido al sistema, {user}!");
 
 //COMMIT 4: final
-Console.WriteLine("Fue un gusto interactuar contigo!")
+Console.WriteLine("Fue un gusto interactuar contigo!");
